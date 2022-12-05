@@ -1,4 +1,4 @@
-# Hi 👋 My name is Nicolas Nachid
+Hi 👋 My name is Nicolas Nachid
 ===============================
 
 Full Stack Web Developer
