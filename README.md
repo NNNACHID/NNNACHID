@@ -1,4 +1,9 @@
 # Hi 👋 My name is Nicolas Nachid
+===============================
+
+Full Stack Web Developer
+------------------------
+
 * 🌍  I'm based in Cruseilles
 *  ✉️   You can contact me at [n.n.nachid@protonmail.com](mailto:n.n.nachid@protonmail.com)
 * 🔭 I’m currently working on my Portfolio
