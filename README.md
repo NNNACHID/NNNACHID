@@ -7,7 +7,7 @@ Full Stack Web Developer
 * 🌍  I'm based in Cruseilles
 * ✉️  You can contact me at [n.n.nachid@protonmail.com](mailto:n.n.nachid@protonmail.com)
 * 🔭  I’m currently working on my Portfolio
-* 🌱  I’m currently learning : Symfony 5 , VueJS
+* 🌱  I’m currently learning : Symfony , VueJS
 * 👯  I’m looking to collaborate on PHP, PYTHON or JS/TS fullstack project
 ### </> Languages and tools : 
 <p align="left">
