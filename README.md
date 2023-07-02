@@ -7,8 +7,8 @@ Full Stack Web Developer
 * 🌍  I'm based in Cruseilles
 * ✉️  You can contact me at [n.n.nachid@protonmail.com](mailto:n.n.nachid@protonmail.com)
 * 🔭  I’m currently working on my Portfolio
-* 🌱  I’m currently learning : Symfony , VueJS
-* 👯  I’m looking to collaborate on PHP, PYTHON or JS/TS fullstack project
+* 🌱  I’m currently learning : Django, Fast API, Tornado , VueJS
+* 👯  I’m looking to collaborate on PYTHON or JS/TS fullstack project
 ### </> Languages and tools : 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
