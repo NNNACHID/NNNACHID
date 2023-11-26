@@ -7,7 +7,7 @@ Full Stack Web Developer
 * 🌍  I'm based in Cruseilles
 * ✉️  You can contact me at [n.n.nachid@protonmail.com](mailto:n.n.nachid@protonmail.com)
 * 🔭  I’m currently working on my Portfolio
-* 🌱  I’m currently learning : Django, Fast API, Tornado , VueJS
+* 🌱  I’m currently learning : Flask, Django, Fast API, Tornado , VueJS
 * 👯  I’m looking to collaborate on PYTHON or JS/TS fullstack project
 ### </> Languages and tools : 
 <p align="left">
