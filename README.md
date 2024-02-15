@@ -7,8 +7,8 @@ Full Stack Web Developer
 * 🌍  I'm based in Cruseilles
 * ✉️  You can contact me at [n.n.nachid@protonmail.com](mailto:n.n.nachid@protonmail.com)
 * 🔭  I’m currently working on my Portfolio
-* 🌱  I’m currently learning : Flask, Django, Fast API, Tornado , VueJS
-* 👯  I’m looking to collaborate on PYTHON or JS/TS fullstack project
+* 🌱  I’m currently learning : Django
+* 👯  I’m looking to collaborate on PYTHON fullstack project
 ### </> Languages and tools : 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
