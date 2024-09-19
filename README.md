@@ -10,5 +10,5 @@ Full Stack Web Developer
 * 🌱  I’m currently learning : Django
 * 👯  I’m looking to collaborate on PYTHON fullstack project
 ### </> Languages and tools : 
-[![My Skills](https://skillicons.dev/icons?i=django.docker.vscode.symfony.py.postgres.php.npm.nginx.mysql.linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django.docker.vscode.symfony.py.postgres.php.npm.nginx.linux)](https://skillicons.dev)
 
