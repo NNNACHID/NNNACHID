@@ -1,7 +1,7 @@
 Hi 👋 My name is Nicolas Nachid
 ===============================
 
-Full Stack Web Developer
+Back end Web Developer
 ------------------------
 
 * 🌍  I'm based in Cruseilles
