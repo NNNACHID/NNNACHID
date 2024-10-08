@@ -10,5 +10,5 @@ Back end Web Developer
 * 🌱  I’m currently learning : Django, Flask, FastAPI
 * 👯  I’m looking to collaborate on PYTHON Back-end/DevOps project
 ### </> Languages and tools : 
-[![My Skills](https://skillicons.dev/icons?i=django,docker,vscode,symfony,py,go,postgres,php,npm,nginx,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,docker,vscode,py,go,postgres,php,npm,nginx,linux)](https://skillicons.dev)
 
