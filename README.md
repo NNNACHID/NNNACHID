@@ -10,5 +10,5 @@ Back end / DevOps
 * 🌱  I’m currently learning : Kubernetes
 * 👯  I’m looking to collaborate on Back-end/DevOps project
 ### </> Languages and tools : 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,docker,vscode,py,go,postgres,nginx,linux,kubernetes,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,docker,vscode,py,go,postgres,nginx,linux,kubernetes,aws)](https://skillicons.dev)
 
