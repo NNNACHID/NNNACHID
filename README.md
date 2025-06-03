@@ -1,7 +1,7 @@
 Hi 👋 My name is Nicolas Nachid
 ===============================
 
-Fullstack, DevOps, Back-end expert, Web wizard and Witch doctor
+Fullstack, DevSecOps, Back-end expert, Web wizard and Witch doctor
 ------------------------
 
 * 🌍  I'm based in Annemasse
