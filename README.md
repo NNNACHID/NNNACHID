@@ -9,7 +9,7 @@ Fullstack, DevSecOps, Back-end expert, Web wizard and Witch doctor
 * 🔭  I’m currently looking for opportunities in security, web3 and video games
 * 🌱  I’m currently learning : Kubernetes, CI/CD and AWS
 ### </> Languages and tools : 
-[![My Skills](https://skillicons.dev/icons?i=django,fastapi,docker,vscode,ts,py,go,postgres,nginx,linux,kubernetes,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,vue,docker,vscode,ts,py,go,postgres,nginx,linux,kubernetes,aws)](https://skillicons.dev)
 
 
 ```
